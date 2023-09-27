@@ -35,5 +35,29 @@
 - **Document Sharing**: Easily share documents, presentations, and files within the chat interface, making it a central hub for information exchange.
 
 - **Company Announcements**: Use group chats to disseminate important company-wide announcements, ensuring that every employee stays informed.
+  
+## Deployment on 000webhost
 
+You can access the Chat with Colleagues application by following this link: [Chat with Colleagues on 000webhost](https://20bcd7171.000webhostapp.com/).
 
+### Accessibility
+Chat with Colleagues is hosted on 000webhost, ensuring easy accessibility for all authorized users. They can access the application from any device with an internet connection.
+
+### Cost-Efficiency
+Hosting on 000webhost provides a cost-effective solution for hosting web applications, making it an ideal choice for organizations looking to manage their budgets while maintaining a reliable communication platform.
+
+### Reliability
+000webhost offers reliable hosting services with minimal downtime, ensuring that your chat application is available whenever your team needs it.
+
+### Scalability
+The hosting platform allows for scalability, so as your organization grows, you can seamlessly expand your hosting resources to accommodate more users and data.
+
+### Security
+000webhost takes security seriously, implementing measures to protect your application and data from unauthorized access and threats.
+
+### Support
+000webhost provides support and resources to help you manage and maintain your hosted application, ensuring that any technical issues can be resolved promptly.
+
+---
+
+For more detailed information on how to use the Chat with Colleagues application, please refer to our [User Guide](https://panel.000webhost.com/).
