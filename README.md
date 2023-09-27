@@ -1,4 +1,4 @@
-# Chat With Colleagues
+# REAL TIME CHAT APPLICATION
 
 ## Description
 
